@@ -1,0 +1,2 @@
+Este programa se utiliza para registrar datos que toman los sensores referidos a temperatura, ph y humedad, de diferentes parecelas que foran parte de los Establecimientos agropecuarios que pertenecen a la cooperativa.
+Para utilizarlo usted debe ir seleccionando las diferentes opciones del menú principal (CAMPO, PARCELA, SENSOR) y una vez que selecciona uno, se abre un submenú que permite seleccionar otras opciones incluida entre ellas la opcion salir
